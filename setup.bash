@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#written by n.onuma
 
 exec 2> /tmp/setup.log
 
